@@ -16,6 +16,9 @@ const Nav = () => {
       <li>
         <Link to="/routerpropresult">router prop result</Link>
       </li>
+      <li>
+        <Link to="/student">student</Link>
+      </li>
     </ul>
   );
 };

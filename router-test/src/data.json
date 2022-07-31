@@ -1,0 +1,30 @@
+{
+  "data":{
+    "student":[
+      {
+        "id":0,
+        "name":"첫번쨰",
+        "age":30,
+        "hasCar":true
+      },
+      {
+        "id":1,
+        "name":"두번쨰",
+        "age":30,
+        "hasCar":true
+      },
+      {
+        "id":2,
+        "name":"세번쨰",
+        "age":30,
+        "hasCar":true
+      },
+      {
+        "id":3,
+        "name":"네번쨰",
+        "age":30,
+        "hasCar":true
+      }
+    ]
+  }
+}
